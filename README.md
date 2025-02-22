@@ -26,26 +26,28 @@ Website Đặt Món Online giúp người dùng dễ dàng đặt món ăn trự
   
 ## Giao diện các màn hình chính của website
 ### 1. Trang chủ
-![Image Alt](https://github.com/vanhthu/DatMon/blob/ca93fe6d087e9775b2268a1a9811bde8a80da982/images/home.png)
+![Image Alt](https://github.com/vanhthu/DatMon/blob/0eb1c46e9b38a09f846b3130006076686cea3525/images/home.png)
 ### 2. Đăng nhập
- ![Image Alt](https://github.com/vanhthu/DatMon/blob/ca93fe6d087e9775b2268a1a9811bde8a80da982/images/login.png)
+ ![Image Alt](https://github.com/vanhthu/DatMon/blob/c2032d0f8c2d478f4bd4f52d252282081e8ccde0/images/login.PNG)
 ### 3. Đăng ký tài khoản
- ![Image Alt](https://github.com/vanhthu/DatMon/blob/ca93fe6d087e9775b2268a1a9811bde8a80da982/images/signup.png)
+ ![Image Alt](https://github.com/vanhthu/DatMon/blob/0eb1c46e9b38a09f846b3130006076686cea3525/images/signup.PNG)
 ### 4. Chỉnh sửa thông tin người dùng
-![Image Alt](image_url)
+![Image Alt](https://github.com/vanhthu/DatMon/blob/0eb1c46e9b38a09f846b3130006076686cea3525/images/profile.png)
 ### 5. Trang menu
-![Image Alt](image_url)
+![Image Alt](https://github.com/vanhthu/DatMon/blob/0eb1c46e9b38a09f846b3130006076686cea3525/images/menu.PNG)
 ### 6. Trang giỏ hàng
-![Image Alt](image_url)
+![Image Alt](https://github.com/vanhthu/DatMon/blob/0eb1c46e9b38a09f846b3130006076686cea3525/images/cart.PNG)
 ### 7. Trang thanh toán
-![Image Alt](image_url)
-### 8. Dashboard
-![Image Alt](image_url)
-### 9. CRUD danh mục
-![Image Alt](https://github.com/vanhthu/DatMon/blob/d2b2454a2f978f727dd6f5d46da1221937ff0ed4/images/category.png)
-### 10. CRUD món ăn
-![Image Alt](image_url)
-### 11. Cập nhật trạng thái đơn hàng
-![Image Alt](image_url)
-### 12. Thống kê / báo cáo
-![Image Alt](image_url)
+![Image Alt](https://github.com/vanhthu/DatMon/blob/0eb1c46e9b38a09f846b3130006076686cea3525/images/payment.png)
+### 8. Theo dõi trạng thái đơn hàng
+![Image Alt](https://github.com/vanhthu/DatMon/blob/0eb1c46e9b38a09f846b3130006076686cea3525/images/history.png)
+### 9. Dashboard
+![Image Alt](https://github.com/vanhthu/DatMon/blob/0eb1c46e9b38a09f846b3130006076686cea3525/images/dashboard.PNG)
+### 10. CRUD danh mục
+![Image Alt](https://github.com/vanhthu/DatMon/blob/0eb1c46e9b38a09f846b3130006076686cea3525/images/category.PNG)
+### 11. CRUD món ăn
+![Image Alt](https://github.com/vanhthu/DatMon/blob/0eb1c46e9b38a09f846b3130006076686cea3525/images/product.PNG)
+### 12. Cập nhật trạng thái đơn hàng
+![Image Alt](https://github.com/vanhthu/DatMon/blob/0eb1c46e9b38a09f846b3130006076686cea3525/images/statusorder.PNG)
+### 13. Thống kê / báo cáo
+![Image Alt](https://github.com/vanhthu/DatMon/blob/0eb1c46e9b38a09f846b3130006076686cea3525/images/report.PNG)
