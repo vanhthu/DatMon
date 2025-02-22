@@ -30,13 +30,13 @@ BEGIN
 	IF @action = 'DELIVERY'
 		BEGIN 
 			SELECT COUNT(*) FROM DBO.ORDERS
-			WHERE status='Đã giao'
+			WHERE status=N'Đã giao'
 		END
 
 	IF @action = 'PENDING'
 		BEGIN 
 			SELECT COUNT(*) FROM DBO.ORDERS
-			WHERE status IN('Đang giao','Đã gửi')
+			WHERE status IN(N'Đang giao',N'Đã gửi')
 		END
 
 	IF @action = 'USER'
