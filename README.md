@@ -26,11 +26,11 @@ Website Đặt Món Online giúp người dùng dễ dàng đặt món ăn trự
   
 ## Giao diện các màn hình chính của website
 ### 1. Trang chủ
-![Image Alt](image_url)
+![Image Alt](https://github.com/vanhthu/DatMon/blob/ca93fe6d087e9775b2268a1a9811bde8a80da982/images/home.png)
 ### 2. Đăng nhập
- ![Image Alt](image_url)
+ ![Image Alt](https://github.com/vanhthu/DatMon/blob/ca93fe6d087e9775b2268a1a9811bde8a80da982/images/login.png)
 ### 3. Đăng ký tài khoản
- ![Image Alt](image_url)
+ ![Image Alt](https://github.com/vanhthu/DatMon/blob/ca93fe6d087e9775b2268a1a9811bde8a80da982/images/signup.png)
 ### 4. Chỉnh sửa thông tin người dùng
 ![Image Alt](image_url)
 ### 5. Trang menu
