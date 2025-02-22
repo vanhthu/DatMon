@@ -185,6 +185,7 @@
     <Content Include="Admin\Products.aspx" />
     <Content Include="Admin\Report.aspx" />
     <Content Include="Admin\Users.aspx" />
+    <Content Include="fixerror\fix-project-setup.txt" />
     <Content Include="Global.asax" />
     <Content Include="itextsharp.dll" />
     <Content Include="UserStyle\css\bootstrap.css" />
